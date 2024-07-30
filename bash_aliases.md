@@ -1,0 +1,7 @@
+alias ass='apt install -y'
+alias sss='apt search'
+alias ssss='apt show'
+alias upd='apt-get update && apt-get upgrade -y && snap refresh'
+alias l.='ls -d .* --color=auto'
+alias ..='cd ..'
+alias ports='ss -tulpn'
