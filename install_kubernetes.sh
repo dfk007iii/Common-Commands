@@ -98,3 +98,4 @@ systemctl enable kubelet.service
 
 
 # Medium Url
+# https://medium.com/@olorunfemikawonise_56441/simplifying-kubernetes-installation-on-ubuntu-using-a-bash-shell-script-d75fed68a31
